@@ -1,0 +1,6 @@
+1) git init - to initialize the git repository/ working tree
+2) git add . - to add all files in the current directory to the staging area
+3) git commit -m "first commit" - to commit the files with a meaningful commit message
+4) git branch -M main - to rename the branch to main (optional)
+5) git remote add origin <repository_url> - to link your local repository to the remote repository
+6) git push -u origin main - to push the changes to the remote repository and set th
